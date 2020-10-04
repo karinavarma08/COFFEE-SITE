@@ -1,0 +1,91 @@
+.main-img{
+    position:relative;
+}
+
+.first-text{
+    position: absolute; 
+    top: 110px; 
+    left: 800px; 
+    color:rgba(255, 182, 182, 0.712);
+    font-family:'Long Cang', cursive;
+    font-weight:bolder;
+    font-size: 105px;
+}
+
+.para-one{
+    position: absolute; 
+    top: 230px; 
+    left: 800px; 
+    color:rgba(255, 182, 182, 0.712);
+    font-family:sans-serif;
+    font-size:30px;
+}
+
+#Second-page{
+    text-align:center;
+    padding:90px 10px;
+    background-color:#ffdcc8;
+   
+}
+
+.sec{
+    font-family: 'Ranchers', cursive;
+    letter-spacing:2px;
+   word-spacing:15px;
+   font-size:35px;
+
+}
+
+.para-sec{
+    padding:40px;
+    font-size:25px;
+    margin:10px;
+    margin-bottom:25px;
+    text-align:center;
+}
+
+ .carousel-item{
+      width:640px;
+     height:520px;
+}
+
+.carousel-caption{
+    text-align:center;
+    font-size:25px;
+}
+
+#footer{
+    padding:40px;
+    margin:0px;
+    background-color:#ffdcc8;
+    text-align:center;
+}
+.footer{
+    padding:20px;
+    word-spacing:15px;
+   
+}  
+
+.fa-2x{
+    color:black;
+}
+
+#pricing{
+    background-color:#fff0e6;
+    text-align:center;
+    padding:50px;
+}
+
+.pricing-coloumn{
+    padding:30px;
+    border-radius:3px;
+}
+
+.last-head{
+    font-family: 'Dancing Script', cursive;
+}
+
+.class{
+font-family: 'Pacifico', cursive;
+word-spacing:3px;
+}
